@@ -8,8 +8,8 @@
     <name>Visualpathit VProfile Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
-        <<!-- Other properties -->
-        <sonar.host.url>18.181.154.17:9000/</sonar.host.url>
+	    
+        <sonar.host.url>http://18.183.212.103:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>1024</sonar.password>
         <sonar.java.binaries>src/</sonar.java.binaries>
