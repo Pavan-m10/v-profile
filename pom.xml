@@ -168,8 +168,12 @@
     </build>
 	<repositories>
     <repository>
-      <id>${NEXUS-GRP-REPO}</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <id>Release</id>
+      <url>http://54.95.121.137:8081/repository/Release/</url>
+    </repository>
+    <repository>
+      <id>Snapshot</id>
+      <url>http://54.95.121.137:8081/repository/Snapshot/</url>
     </repository>
   </repositories>
 </project>
