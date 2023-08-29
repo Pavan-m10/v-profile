@@ -9,7 +9,7 @@
     <url>http://maven.apache.org</url>
     <properties>
 	    
-        <sonar.host.url>http://18.183.212.103:9000/</sonar.host.url>
+        <sonar.host.url>http://43.206.222.225:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>1024</sonar.password>
         <sonar.java.binaries>src/</sonar.java.binaries>
@@ -169,11 +169,11 @@
 	<repositories>
     <repository>
       <id>Release</id>
-      <url>http://54.95.121.137:8081/repository/Release/</url>
+      <url>http://54.238.250.228:8081/repository/Release/</url>
     </repository>
     <repository>
       <id>Snapshot</id>
-      <url>http://54.95.121.137:8081/repository/Snapshot/</url>
+      <url>http://54.238.250.228:8081/repository/Snapshot/</url>
     </repository>
   </repositories>
 </project>
